@@ -1,0 +1,400 @@
+Category: Sports
+Question: Who won the 10th Italian Open title in 2021?
+Answer:Novack Djokovic
+Answer: Rafael Nadal
+Answer: Dominic Thiem
+Answer: Stefanos Tsitsipas
+Correct Answer Index: 2
+
+Category: Sports
+Question: India won Thomas Cup on May 15, 2022, by defeating whom?
+Answer: Indonesia
+Answer: Malaysia
+Answer: China
+Answer: Denmark
+Correct Answer Index: 1
+
+Category: Sports
+Question: In which year Major Dhyan Chand was awarded the Padma Bhushan, the third-highest Civilian Award?
+Answer: 1954
+Answer: 1959
+Answer: 1956
+Answer: 1960
+Correct Answer Index: 3
+
+Category: Sports
+Question: In cricket which of the following fielding positions is behind the batsman?
+Answer: Mid-wicket
+Answer: First slip
+Answer: Cover
+Answer: Mid-off
+Correct Answer Index: 2
+
+Category: Sports
+Question: Who is the first Indian fencer to qualify for the Tokyo Olympic Games?
+Answer: Kavitha Devi
+Answer: Bhavani Devi
+Answer: Daina Devi
+Answer: Kaushik Vedika
+Correct Answer Index: 2
+
+Category: Sports
+Question: The term ‘Dolphin Kick’ is associated with which of the following games?
+Answer: Badminton
+Answer: Squash
+Answer: Swimming
+Answer: Golf
+Correct Answer Index: 3
+
+Category: Sports
+Question: Neeraj Chopra won India’s first-ever Olympic Gold Medal in which of the following sports?
+Answer: 400m Hurdle
+Answer: Javelin Throw
+Answer: Long Jump
+Answer: High Jump
+Correct Answer Index: 2
+
+Category: Sports
+Question: Which of the following footballers has the world record for the highest goal scorer for a single club?
+Answer: Lionel Messi (Barcelona FC)
+Answer: Pele (Santos FC)
+Answer: Gerd Muller (Bayern Munich)
+Answer: Fernando Payrotes (Sporting CP)
+Correct Answer Index: 1
+
+Category: Sports
+Question: Who became the first player of Indian origin to play in an NBA game?
+Answer: Sim Bhullar
+Answer: Palpreet Singh
+Answer: Amjyot Singh
+Answer: Satnam Singh
+Correct Answer Index: 1
+
+Category: Sports
+Question: Thomas Cup and Uber Cup are prestigious trophies of which sport?
+Answer: Badminton
+Answer: Lawn Tennis
+Answer: Table Tennis
+Answer: Golf
+Correct Answer Index: 1
+
+Category: General Knowledge
+Question: Who wrote the play "Romeo and Juliet"?
+Answer: William Shakespeare
+Answer: Jane Austen
+Answer: Charles Dickens
+Answer: F. Scott Fitzgerald
+Correct Answer Index: 1
+
+Category: General Knowledge
+Question: Which country is home to the famous ancient monument Stonehenge?
+Answer: France
+Answer: United Kingdom
+Answer: Italy
+Answer: Egypt
+Correct Answer Index: 2
+
+Category: General Knowledge
+Question: Which country is known as the "Land of the Rising Sun"?
+Answer: China
+Answer: South Korea
+Answer: Japan
+Answer: Thailand
+Correct Answer Index: 3
+
+Category: General Knowledge
+Question: Who painted the famous artwork "The Starry Night"?
+Answer: Salvador Dalí
+Answer: Pablo Picasso
+Answer: Vincent van Gogh
+Answer: Claude Monet
+Correct Answer Index: 3
+
+Category: General Knowledge
+Question: What is the official language of Brazil?
+Answer: Spanish
+Answer: Portuguese
+Answer: French
+Answer: English
+Correct Answer Index: 2
+
+Category: General Knowledge
+Question: Who invented the telephone?
+Answer: Thomas Edison
+Answer: Alexander Graham Bell
+Answer: Nikola Tesla
+Answer: Isaac Newton
+Correct Answer Index: 2
+
+Category: General Knowledge
+Question: Who is the author of the Harry Potter book series?
+Answer: J.R.R. Tolkien
+Answer: J.K. Rowling
+Answer: George R.R. Martin
+Answer: Dan Brown
+Correct Answer Index: 2
+
+Category: General Knowledge
+Question: What is the largest ocean in the world?
+Answer: Atlantic Ocean
+Answer: Indian Ocean
+Answer: Arctic Ocean
+Answer: Pacific Ocean
+Correct Answer Index: 4
+
+Category: General Knowledge
+Question: Who painted the Mona Lisa?
+Answer: Vincent van Gogh
+Answer: Pablo Picasso
+Answer: Leonardo da Vinci
+Answer: Michelangelo
+Correct Answer Index: 3
+
+Category: General Knowledge
+Question: What is the capital of Australia?
+Answer: Sydney
+Answer: Melbourne
+Answer: Canberra
+Answer: Perth
+Correct Answer Index: 3
+
+Category: Music and TV
+Question: Which is not the name of a child selected to tour the Wonka factory in Willy Wonka and the Chocolate Factory?
+Answer: Billy Warp
+Answer: Veruca Salt
+Answer: Mike Teavee
+Answer: Charlie Bucket
+Correct Answer Index: 1
+
+Category: Music and TV
+Question: What is the name of the fictional land where Frozen takes place?
+Answer:  Arendelle
+Answer: Naples
+Answer: Florin
+Answer: Grimm
+Correct Answer Index: 1
+
+Category: Music and TV
+Question: Which album has sold the most copies of all time worldwide?
+Answer: Pink Floyd - Dark Side of the Moon
+Answer: Fleetwood Mac - Rumours
+Answer: Michael Jackson - Thriller
+Answer: Celine Dion - Falling Into You
+Correct Answer Index: 3
+
+Category: Music and TV
+Question: Which K-pop band was the first to perform at Coachella?
+Answer: BTS
+Answer: Seventeen 
+Answer: Twice
+Answer: Blackpink
+Correct Answer Index: 4
+
+Category: Music and TV
+Question: Which famous rock band had the hit song Hotel California?
+Answer: The Eagles
+Answer: The Rolling Stone
+Answer: Creedance Clearwater Revival
+Answer: Aerosmith
+Correct Answer Index: 1
+
+Category: Music and TV
+Question: If you watch the Marvel movies in chronological order, which movie would you watch first?
+Answer: Iron Man
+Answer: Captain America: The First Avenger
+Answer: Doctor Strange
+Answer: Captain Marvel
+Correct Answer Index: 2
+
+Category: Music and TV
+Question: Who is most popularly known as the Queen of Pop?
+Answer: Mandonna
+Answer: Taylor Swift
+Answer: Beyonce
+Answer: Celine Dion
+Correct Answer Index: 1
+
+Category: Music and TV
+Question: Some of the velociraptor noises in Jurassic Park are actually which animals mating?
+Answer:Tortoises
+Answer: Frogs
+Answer: Lizards
+Answer: Crocodiles
+Correct Answer Index: 1
+
+Category: Music and TV
+Question: Which actor hasn’t played the Joker?
+Answer: Jack Nicholson
+Answer: Sean Penn
+Answer: Jared Leto
+Answer: Mark Hamill
+Correct Answer Index: 2
+
+Category: Music and TV
+Question: Which female singer teamed up with Robbie Williams to produce the single Kids?
+Answer: Mandonna
+Answer: Kylie Minogue
+Answer: Britney Spears
+Answer: Rihanna
+Correct Answer Index: 2
+
+Category: Geography
+Question: Which is the longest river in the North America?
+Answer: Mississippi River
+Answer: Amazon River
+Answer: Nile River
+Answer: Missouri River
+Correct Answer Index: 4
+
+Category: Geography
+Question: What is a volcano formed when lava erupts beneath a thick glacier or ice sheet called?
+Answer: Somma volcano
+Answer: Stratovolcano
+Answer: Subglacial mound
+Answer: Shield volcano
+Correct Answer Index: 3
+
+Category: Geography
+Question: Which is the longest Freshwater lake in the world?
+Answer: Lake Michigan
+Answer: Lake Erie
+Answer: Lake Tanganyika
+Answer: Lake Victoria
+Correct Answer Index: 3
+
+Category: Geography
+Question: Which among the following mountain ranges extend from Kazakhstan to northern China?
+Answer: Altai
+Answer: Andes
+Answer: Atlas
+Answer: Vosges
+Correct Answer Index: 1
+
+Category: Geography
+Question: Which is the largest hot desert in the world?
+Answer: Gobi
+Answer: Sahara
+Answer: Atacama
+Answer: Thar
+Correct Answer Index: 2
+
+Category: Geography
+Question: Which of the following hill station is referred to as the “Kashmir of South India”?
+Answer: Ranni
+Answer: Munnar
+Answer: Panchalimedu
+Answer: Soordelu
+Correct Answer Index: 2
+
+Category: Geography
+Question: Which of the following river flows in the Andaman island?
+Answer: Kaladan river
+Answer: Myitnge river
+Answer: Pein river
+Answer: Kalpong river
+Correct Answer Index: 4
+
+Category: Geography
+Question: Which among the following are the deepest parts of the ocean?
+Answer: Continental Shelf
+Answer: Continental Slope
+Answer: Mid-oceanic Ridges
+Answer: Oceanic Trenches
+Correct Answer Index: 4
+
+Category: Geography
+Question: Where does the Indian and the Southern Ocean meet?
+Answer: Drake Passage
+Answer: Albatross Plateau
+Answer: Cape Leeuwin
+Answer: Bass Strait
+Correct Answer Index: 3
+
+Category: Geography
+Question: Which of the following is the newest geological era?
+Answer: Permian
+Answer: Triassic
+Answer: Cretaceous
+Answer: Jurassic
+Correct Answer Index: 3
+
+Category: Tech
+Question: Which one of the following is an application of Stack Data Structure?
+Answer: Managing function calls
+Answer: The stock span problem
+Answer: Arithmetic expression evaluation
+Answer: All of the above
+Correct Answer Index: 4
+
+Category: Tech
+Question: With what data structure can a priority queue be implemented?
+Answer: Array
+Answer: List
+Answer: Heap
+Answer: All of these
+Correct Answer Index: 4
+
+Category: Tech
+Question: In which of the following trees, parent node has a key value greater than or equal to the key value of both of its children?
+Answer: Binary search tree
+Answer: Threaded binary tree
+Answer: Complete binary tree
+Answer: Max-heap
+Correct Answer Index: 4
+
+Category: Tech
+Question: Which of the following traversal outputs the data in sorted order in a BST?
+Answer: Preorder
+Answer: Inorder
+Answer: Postorder
+Answer: Level order
+Correct Answer Index: 2
+
+Category: Tech
+Question: What is a threaded binary tree traversal?
+Answer: Traversal using stacks
+Answer: Traversal using queues
+Answer: Traversal using stacks and queues
+Answer: Traversal without stacks and queues
+Correct Answer Index: 4
+
+Category: Tech
+Question: A graph is a collection of
+Answer: Rows and columns
+Answer: Vertices and edges
+Answer: Equations
+Answer: None
+Correct Answer Index: 2
+
+Category: Tech
+Question: What graph traversal algorithm uses a stack to keep track of vertices which need to be processed?
+Answer: Breadth-first search
+Answer: Depth-first search
+Answer: Level order search
+Answer: None of the above
+Correct Answer Index: 2
+
+Category: Tech
+Question: Which of the following is the most widely used external memory data structure?
+Answer: AVL
+Answer: RedBlack
+Answer: B-tree
+Answer: both AVL and RedBlack
+Correct Answer Index: 3
+
+Category: Tech
+Question: The data structure used for depth first search is:
+Answer: Stack
+Answer: Queue
+Answer: Hashing
+Answer: None of these
+Correct Answer Index: 1
+
+Category: Tech
+Question: What is an AVL tree?
+Answer: Height balanced tree
+Answer: Unbalanced tree 
+Answer: Tree with 3 children
+Answer: Tree with atmost 3 children
+Correct Answer Index:
+
